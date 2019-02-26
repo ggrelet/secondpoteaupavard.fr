@@ -1,0 +1,38 @@
+.mail {
+    cursor: pointer;
+    color: #e52d27;
+}
+
+.twitter {
+	cursor: pointer;
+	color: #55acee;
+} 
+
+.purple {
+	color: #150c68;
+}
+
+#mute-icon {
+	cursor: pointer;
+}
+
+#fullscreen-video {
+	cursor: pointer;
+}
+
+.twitter:hover, .mail:hover {
+	filter: brightness(80%);
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
+
+span {
+	font-family: "Gill Sans", sans-serif;
+}
+
